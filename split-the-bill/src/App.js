@@ -70,6 +70,14 @@ function Button({ children }) {
   return <button className="button">{children}</button>;
 }
 
+function MoreFriends() {
+  return (
+    <div>
+      <h3>Hi</h3>
+    </div>
+  );
+}
+
 function FormAddFriend() {
   return (
     <form className="form-add-friend">
