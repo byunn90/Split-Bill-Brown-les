@@ -19,6 +19,12 @@ const initialFriends = [
     image: "https://i.pravatar.cc/48?u=499476",
     balance: 0,
   },
+  {
+    id: 399476,
+    name: "Antonio",
+    image: "https://i.pravatar.cc/48?u=499876",
+    balance: 20000,
+  },
 ];
 
 function Button({ children, onClick }) {
